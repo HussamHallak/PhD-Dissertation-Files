@@ -1,0 +1,501 @@
+Entities from post: https://www.aljazeera.net/news/politics/2021/1/4/%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8-%d9%86%d8%a7%d9%86%d8%b3%d9%8a-%d8%a8%d9%8a%d9%84%d9%88%d8%b3%d9%8a للمرة الرابعة.. انتخاب نانسي بيلوسي رئيسة لمجلس النواب الأميركي
+----------- GPE -------------
+US 4
+California 1
+Georgia 1
+Washington 2
+DC 1
+----------- PERSON -------------
+Nancy Pelosi 3
+Pelosi 5
+Donald Trump's 1
+Kevin McCarthy 1
+Joe Biden 2
+Donald Trump 1
+Trump 1
+Al Jazeera 1
+----------- ORG -------------
+House of Representatives 3
+the House of Representatives 2
+Reuters 1
+Congress 2
+Senate 1
+----------- NORP -------------
+Democrat 1
+Republican 1
+Republicans 3
+Democrats 1
+Democratic 2
+entities count =  41
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/politics/2021/1/4/%d8%ad%d9%85%d8%a7%d8%b3-%d8%aa%d8%b9%d9%84%d9%86-%d9%82%d8%a8%d9%88%d9%84%d9%87%d8%a7-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa هنية يعلن قبول حماس إجراء انتخابات فلسطينية على التوالي لا التزامن
+----------- GPE -------------
+Turkey 3
+Egypt 3
+Qatar 3
+Russia 2
+Cairo 1
+----------- PERSON -------------
+Haniyeh 5
+Ismail Haniyeh 2
+Al-Jazeera 1
+Mahmoud Abbas 2
+Abbas 2
+Anadolu Agency 1
+----------- ORG -------------
+Hamas 12
+National Council 1
+Fatah 3
+the National Council 2
+Al-Aqsa TV 1
+the Palestine Liberation Organization 1
+PLO 1
+the Legislative Council 1
+----------- NORP -------------
+Palestinian 10
+entities count =  57
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/4/%d8%a7%d9%84%d8%ad%d8%b5%d8%a7%d8%af-2021-1 الحصاد (2021/1/3)
+----------- GPE -------------
+Israel 1
+Iran 2
+----------- PERSON -------------
+Iman Ayyad 1
+Biden 1
+----------- ORG -------------
+----------- NORP -------------
+entities count =  5
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/4/%d8%a7%d9%84%d8%a8%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d8%b9%d9%85%d9%84%d8%a9-%d8%a2%d9%85%d9%86%d8%a9-%d8%a3%d9%85-%d9%81%d9%82%d8%a7%d8%b9%d8%a9-%d8%ad%d8%b8%d8%9f البتكوين.. عملة آمنة أم فقاعة حظ؟
+----------- GPE -------------
+----------- PERSON -------------
+----------- ORG -------------
+----------- NORP -------------
+entities count =  0
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/4/%d9%85%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1-%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%85%d9%82%d8%aa%d9%84-%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86%d9%8a-%d9%84%d9%85-%d9%8a%d8%ac%d8%b9%d9%84 مستشار بايدن: مقتل سليماني لم يجعل أميركا أكثر أمنا ولم يوقف الاستفزازات الإيرانية
+----------- GPE -------------
+America 2
+Iran 1
+----------- PERSON -------------
+Biden 1
+Soleimani 1
+Jake Sullivan 1
+Joe Biden 1
+Qassem Soleimani 1
+----------- ORG -------------
+----------- NORP -------------
+Iranian 2
+entities count =  10
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/4/%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9-%d8%aa%d8%b3%d8%aa%d8%af%d8%b9%d9%8a-%d9%85%d8%af%d9%8a%d8%b1-%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%89-%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86%d9%8a%d8%a9 النيابة تستدعي مدير مستشفى الحسينية بعد وفاة 4 مرضى بكورونا
+----------- GPE -------------
+Corona 1
+Sharkia Governorate 1
+----------- PERSON -------------
+----------- ORG -------------
+Al-Hussainiya Hospital 1
+the Public Prosecution 1
+Al Husseiniya Hospital 1
+----------- NORP -------------
+Egyptian 1
+entities count =  6
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/4/%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9 جيش الربيع
+----------- GPE -------------
+----------- PERSON -------------
+----------- ORG -------------
+Army 1
+----------- NORP -------------
+Tunisian 2
+Tunisians 1
+entities count =  4
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/4/%d9%85%d8%b8%d8%a7%d9%87%d8%b1%d8%a9-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d9%84%d8%a5%d8%ad%d9%8a%d8%a7%d8%a1-%d8%b0%d9%83%d8%b1%d9%89-%d9%85%d9%82%d8%aa%d9%84 مظاهرة في بغداد لإحياء ذكرى مقتل سليماني والمطالبة بإخراج القوات الأجنبية
+----------- GPE -------------
+Baghdad 2
+----------- PERSON -------------
+Soleimani 1
+Qassem Soleimani 1
+----------- ORG -------------
+Quds Force 1
+----------- NORP -------------
+Iraqi 1
+Iranian 1
+entities count =  7
+=======================================================================
+Entities from post: https://www.aljazeera.net/sport/football/2021/1/3/%d8%b4%d9%82%d9%8a%d9%82-%d8%b1%d8%a7%d9%85%d9%88%d8%b3-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d8%b4%d9%83%d9%88%d9%83-%d8%a8%d8%b4%d8%a3%d9%86-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84 شقيق راموس يثير الشكوك بشأن مستقبل قائد ريال مدريد
+----------- GPE -------------
+Madrid 1
+Corona 1
+----------- PERSON -------------
+Ramos 7
+Makkah Al-Mukarramah 1
+Sergio Ramos 1
+Rene - Ramos' 1
+Rene 1
+Alfredo Duro 1
+Duru 1
+----------- ORG -------------
+Real Madrid 6
+Reuters 1
+----------- NORP -------------
+Spanish 1
+entities count =  23
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/2021/1/3/%d9%85%d9%82%d8%aa%d9%84-%d8%b4%d8%ae%d8%b5-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a2%d8%ae%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%86%d8%a7%d8%b1-%d8%b9%d9%86%d8%af مقتل شخص وإصابة آخرين في إطلاق نار خارج كنيسة في تكساس الأميركية
+----------- GPE -------------
+The United States of America 1
+Texas 6
+USA 1
+Smith County 1
+TX 1
+----------- PERSON -------------
+Greg Abbott 1
+Abbott 1
+Jan 1
+Dan Patrick 1
+Al Jazeera 1
+----------- ORG -------------
+Starrville Methodist Church 1
+KLTV 1
+----------- NORP -------------
+entities count =  17
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/politics/2021/1/3/%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d9%82%d9%8a%d9%88%d8%af كورونا.. بريطانيا تتجه لتشديد القيود والكويت توقف الطيران معها وأميركا تشهد سجالا بين ترامب وفاوتشي
+----------- GPE -------------
+Britain 6
+Kuwait 4
+America 2
+the State of Kuwait 1
+the United Kingdom 1
+the United States 3
+----------- PERSON -------------
+Trump 4
+Fauchi
+Record 1
+Makkah Al-Mukarramah 1
+Boris Johnson 1
+Johnson 2
+Keir Starmer 1
+Starmer 1
+Donald Trump 1
+Anthony Fauci 1
+Fauci 1
+Jerome Adams 1
+----------- ORG -------------
+the British Broadcasting Corporation 1
+BBC 1
+Labor Party 1
+the Kuwaiti General Administration of Civil Aviation 1
+Reuters 1
+the National Institute of Allergy and Infectious Diseases 1
+ABC 1
+CNN 1
+the State of the Union 1
+the US Centers for Disease Control and Prevention 1
+Twitter 1
+----------- NORP -------------
+European 1
+British 1
+American 1
+Chinese 1
+entities count =  47
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/politics/2021/1/3/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d9%83%d8%a7%d9%84%d9%85%d8%a9-%d9%85%d8%b3%d8%b1%d8%a8%d8%a9 مكالمة مسربة مدتها ساعة.. ترامب يضغط على سكرتير ولاية جورجيا لإيجاد أصوات لقلب نتيجة الانتخابات
+----------- GPE -------------
+Georgia 4
+US 1
+Washington 1
+DC 1
+----------- PERSON -------------
+Trump 9
+Donald Trump 2
+Brad Ravensburger 1
+Ravensburger 1
+Joe Biden's 1
+Dick Durbin 2
+Adam Schiff 1
+Bob Pow 1
+Joe Biden 2
+----------- ORG -------------
+The Washington Post 1
+State 1
+Senate 1
+Politico 1
+European News Agency 1
+House of Representatives 1
+Washington Post 1
+----------- NORP -------------
+European 1
+Republican 1
+Democrat 2
+Republicans 2
+Democratic 1
+entities count =  41
+=======================================================================
+Entities from post: https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2021/1/3/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a-%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a الجيش التونسي استثناء.. ماذا فعلت الجيوش العربية بربيع بلادها؟
+----------- GPE -------------
+Sudan 1
+Algeria 1
+----------- PERSON -------------
+----------- ORG -------------
+----------- NORP -------------
+Tunisian 1
+Arab 2
+entities count =  5
+=======================================================================
+Entities from post: https://www.aljazeera.net/ebusiness/2021/1/3/%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d8%aa%d8%ac%d9%86%d8%a8-%d9%87%d8%b0%d9%87 5 أخطاء مالية تمنعك من تحقيق الاستقلال المالي
+----------- GPE -------------
+----------- PERSON -------------
+Robert Kiyosaki 1
+----------- ORG -------------
+Getty Images 1
+Finanzas Personales 1
+----------- NORP -------------
+Colombian 1
+American 1
+entities count =  5
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/arts/2021/1/3/%d9%87%d9%84-%d8%a3%d8%ad%d8%a8%d8%a8%d8%aa%d9%85-%d8%a7%d9%84%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a-%d8%ba%d8%b1%d8%a8%d8%a7%d8%a1 بعد دخوله موسوعة غينيس.. بدء تصوير النسخة العربية من الفيلم الإيطالي "غرباء بالكامل"
+----------- GPE -------------
+Lebanon 2
+America 1
+Spain 1
+France 1
+Germany 1
+India 1
+Mexico 1
+Turkey 1
+South Korea 1
+Qatar 1
+Egypt 1
+----------- PERSON -------------
+Corona 1
+Mohamed Hefzy 1
+Mona Zaki 2
+Iyad Nassar 2
+Nadine Labaki 2
+Adel Karam 2
+Diamand Bou Abboud 1
+George Khabbaz 1
+Paolo Ginovesi 1
+----------- ORG -------------
+Netflix 1
+IMDb 1
+----------- NORP -------------
+Italian 5
+Arab 2
+Egyptian-Lebanese 1
+Egyptian 2
+Jordanian 1
+Lebanese 3
+French 1
+German 1
+Korean 1
+Spanish 1
+entities count =  45
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/cultureandart/2021/1/3/%d9%83%d8%aa%d8%a8-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%b9%d9%86-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a7%d9%84%d9%85%d9%86%d9%82%d8%b3%d9%85%d8%a9-%d9%85%d8%a4%d8%b1%d8%ae بوبيرو مؤرخ العلمانية الفرنسية لماكرون: لا تتحدثون عن قيم الجمهورية إلا عند تناول الإسلام
+----------- GPE -------------
+France 3
+the Crusader Kingdom 1
+Jerusalem 1
+Mulhouse 1
+----------- PERSON -------------
+France
+Popiero 1
+Macron 3
+Jean Bobiero 1
+John Bobierot 1
+Emmanuel Macron 1
+Emile Coombs 2
+Combs 1
+Al Jazeera 1
+Nicolas Sarkozy 1
+Sarkozy 3
+Bobiro 2
+Moreau 1
+Popiero 1
+François Parwan 1
+----------- ORG -------------
+the School of Advanced Studies of Social Sciences 1
+the Department of Sociology of Religion and Secularism 1
+the French National Center for Scientific Research 1
+Reform 1
+the Institute Bordeaux 1
+L`Obs 1
+the French Republican Party 1
+----------- NORP -------------
+French 7
+Islam 1
+Carmelite 1
+entities count =  42
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/3/%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%81%d9%8a-%d8%ad%d8%a7%d9%84%d8%a7%d8%aa النيابة المصرية تبدأ التحقيق في حالات وفاة بمستشفى الحسينية
+----------- GPE -------------
+Sharkia Governorate 1
+----------- PERSON -------------
+----------- ORG -------------
+The Egyptian Prosecution 1
+Al-Hussainiya Hospital 1
+Al Husseiniya Hospital 1
+----------- NORP -------------
+Egyptian 1
+entities count =  5
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/3/%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7%d9%81 السودان.. مناقشة إمكانية استئناف مفاوضات سد النهضة في ظل مذكرة اتفاق
+----------- GPE -------------
+Sudan 2
+----------- PERSON -------------
+----------- ORG -------------
+Ministry of Irrigation 1
+----------- NORP -------------
+Sudanese 1
+entities count =  4
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/2021/1/3/%d8%b3%d8%af-%d8%a7%d9%84%d9%86%d9%87%d8%b6%d8%a9-9 مفاوضات سد النهضة.. اتفاق ثلاثي على مواصلة الاجتماعات واستمرار التباين بين مصر وإثيوبيا
+----------- GPE -------------
+Egypt 5
+Ethiopia 4
+Cairo 2
+Khartoum 3
+Addis Ababa 2
+Sudan 1
+South Africa 2
+----------- PERSON -------------
+Al-Jazeera 1
+Guy Pandora 1
+----------- ORG -------------
+African Union 2
+the Foreign and Irrigation Ministers 1
+the African Union 1
+the Egyptian Foreign and Sudanese Ministry of Irrigation 1
+the Egyptian Foreign Ministry 1
+the Ethiopian Ministry of Irrigation 1
+AU 1
+the Sudanese News Agency 1
+the Sudanese Ministry of Irrigation's 1
+The Sudanese Agency 1
+the Minister of International Cooperation 1
+The Egyptian Foreign Ministry 1
+the African Union Commission 1
+----------- NORP -------------
+African 1
+South African 1
+Ethiopian 1
+Sudanese 1
+entities count =  39
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/politics/2021/1/3/%d8%b0%d9%83%d8%b1%d9%89-%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%84%d8%a8%d9%86%d8%a7%d9%86 إحياء ذكرى مقتل سليماني والمهندس.. مظاهرة حاشدة في بغداد وخطاب لنصر الله وتأهب عسكري إسرائيلي
+----------- GPE -------------
+Baghdad 6
+Lebanon 2
+the United States 2
+Israel 1
+Iran 1
+US 2
+Iraq 3
+Maroun Al-Ras 1
+----------- PERSON -------------
+Soleimani 6
+Nasrallah 1
+Makkah Al-Mukarramah 1
+Qassem Soleimani 2
+Abu Mahdi al-Muhandis 2
+Donald Trump's 1
+Faleh al-Fayyad 1
+Hadi al-Amiri 1
+Abu Hussein Al-Hamidawi 1
+Al-Hamidawi 1
+----------- ORG -------------
+the Iraqi Popular Mobilization Forces 1
+Hezbollah 2
+the Popular Mobilization Forces 1
+PMF 1
+Al-Jazeera 1
+the Popular Mobilization Authority 3
+the General Traffic Directorate 1
+the Quds Force 1
+the Iranian Revolutionary Guard 1
+the Al-Fateh Alliance 1
+the Iraqi Hezbollah Brigades 1
+Brigades 1
+----------- NORP -------------
+Israeli 1
+Iranian 1
+American 5
+Lebanese 3
+Iraqi 4
+Shiite 1
+entities count =  65
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/healthmedicine/2021/1/3/%e2%80%ab%d8%aa%d9%85%d8%a7%d8%b1%d9%8a%d9%86-%d8%a8%d8%b3%d9%8a%d8%b7%d8%a9-%d9%84%d8%aa%d8%ac%d9%86%d8%a8-%d8%b7%d9%82%d8%b7%d9%82%d8%a9-%d8%a7%d9%84%d8%b1%d9%82%d8%a8%d8%a9%e2%80%ac 5 ‫تمارين بسيطة لمحاربة طقطقة الرقبة‬
+----------- GPE -------------
+Essen 1
+Nazami 1
+----------- PERSON -------------
+Ramin Nazemi 2
+Karl Christopher Punter 1
+Bunter 1
+----------- ORG -------------
+the German Society for Physiotherapy 1
+----------- NORP -------------
+German 2
+entities count =  9
+=======================================================================
+Entities from post: https://www.aljazeera.net/programs/aja-interactive/2021/1/3/%d8%b9%d9%85%d9%84%d8%a9-%d8%a8%d9%8a%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d8%aa%d8%ad%d9%82%d9%82-%d8%a3%d8%b9%d9%84%d9%89-%d8%b3%d8%b9%d8%b1-%d9%84%d9%87%d8%a7-%d8%b9%d9%84%d9%89 عملة بتكوين تحقق أعلى سعر لها على الإطلاق.. استثمار آمن أم فقاعة وهمية؟
+----------- GPE -------------
+----------- PERSON -------------
+----------- ORG -------------
+----------- NORP -------------
+Arab 1
+entities count =  1
+=======================================================================
+Entities from post: https://www.aljazeera.net/videos/2021/1/3/%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%aa%d8%b1%d9%81%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1 السودان.. الحكومة ترفع أسعار الكهرباء بنسب متفاوتة تصل إلى 600%
+----------- GPE -------------
+Sudan 1
+----------- PERSON -------------
+----------- ORG -------------
+Finance 1
+----------- NORP -------------
+Sudanese 2
+entities count =  4
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/miscellaneous/2021/1/3/%d8%a7%d8%b5%d8%b7%d8%af%d9%85%d8%aa-%d8%a8%d8%b7%d9%8a%d9%88%d8%b1-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d8%b4%d8%ad%d9%86-%d8%aa%d8%b1%d9%83%d9%8a%d8%a9-%d8%aa%d9%87%d8%a8%d8%b7 شاهد.. طائرة شحن تركية تهبط اضطراريا بإسطنبول بعد اصطدامها بسرب من الطيور
+----------- GPE -------------
+Istanbul 2
+Anatolia 1
+----------- PERSON -------------
+Al Jazeera 1
+----------- ORG -------------
+Turkish Airlines 1
+----------- NORP -------------
+Turkish 1
+entities count =  6
+=======================================================================
+Entities from post: https://www.aljazeera.net/news/miscellaneous/2021/1/3/%d8%a8%d8%b9%d8%af-%d8%a3%d9%86-%d9%83%d8%a7%d9%86%d8%aa-%d8%a3%d8%b4%d8%ac%d8%a7%d8%b1%d8%a7-%d9%84%d9%84%d8%b4%d9%86%d9%82-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a أميركي من أصل أفريقي يحول أشجار الإعدام إلى قيثارات موسيقية
+----------- GPE -------------
+North Carolina 2
+Fountain 1
+the United States 1
+----------- PERSON -------------
+Tim Duffy 2
+Freeman Vines 3
+Melody Lockard 1
+Vines 3
+Simon Arkash 1
+Arkash 2
+Freeman 1
+----------- ORG -------------
+L’Obs 1
+the Music Maker Relief Foundation 1
+Music Maker Relief 1
+French Press 1
+----------- NORP -------------
+African American 3
+French 1
+African Americans 1
+American 1
+entities count =  27
+=======================================================================

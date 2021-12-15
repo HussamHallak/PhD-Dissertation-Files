@@ -1,0 +1,286 @@
+Entities from post: https://www.arabnews.com/node/1786831/world How COVID-19 vaccines will reach both rich and poor over time
+----------- GPE -------------
+Cairo 1
+UK 1
+US 1
+London 1
+----------- PERSON -------------
+Abdinasir Abubakar 1
+Mais Absi 2
+----------- ORG -------------
+the Infectious Hazard Management Unit 1
+the World Health Organization 1
+WHO 3
+Arab News 2
+COVAX 2
+Abubakar 1
+Pfizer 1
+King’s College Hospital 1
+----------- NORP -------------
+entities count =  19
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786816/world Bangladesh says photographer’s arrest not related to controversial transfer of Rohingyas
+----------- GPE -------------
+Bangladesh 3
+the Bay of Bengal 1
+Myanmar 2
+Bhasan Char 1
+Maungdaw 1
+Rakhine State 1
+Dhaka 1
+----------- PERSON -------------
+Abul Kalam 3
+DHAKA 1
+Bianca Jagger 1
+Shaifur Rahman 1
+Kalam 5
+Ukhia 1
+Cox 1
+Rafikul Islam 1
+Rahman 2
+Bhasan Char 1
+Mohammad Sazzad Hossain 1
+----------- ORG -------------
+UN 1
+Arab News 3
+the UN Refugee Agency 1
+UNHCR 3
+----------- NORP -------------
+Bangladeshi 2
+Rohingya 4
+entities count =  42
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786736/world Website claims Turkish diplomats spied on critics in Hungary
+----------- GPE -------------
+Hungary 4
+Ankara 2
+LONDON 1
+Turkey 2
+Budapest 1
+US 1
+SW Pakistan 1
+Machh 2
+Pakistan 2
+Baluchistan 1
+Quetta 2
+----------- PERSON -------------
+Fethullah Gulen 2
+Names 1
+Recep Tayyip Erdogan 1
+Gulen 1
+Erdogan 1
+Moazzam Ali Jatoi 1
+Imran Khan 1
+----------- ORG -------------
+the Nordic Monitor 2
+anti-Erdogan 1
+AP
+Daesh 1
+AP 1
+Daesh 1
+the Levies Force 1
+----------- NORP -------------
+Turkish 5
+Shiite 2
+Shiite Hazara 2
+Hazara 2
+Pakistani 1
+Sunni 1
+Shiites 1
+entities count =  48
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786716/world Daesh gunmen kill 11 minority Shiite coal miners in SW Pakistan
+----------- GPE -------------
+SW Pakistan 1
+Machh 2
+QUETTA 1
+Pakistan 3
+Baluchistan 2
+Quetta 4
+Hazara 1
+Afghanistan 1
+----------- PERSON -------------
+Moazzam Ali Jatoi 1
+Imran Khan 1
+Nasir Abbas 1
+Daesh 1
+----------- ORG -------------
+Daesh 4
+the Levies Force 1
+----------- NORP -------------
+Shiite 4
+Shiite Hazara 2
+Hazara 2
+Pakistani 2
+Sunni 2
+Shiites 3
+Baluch 1
+non-Baluch 1
+entities count =  41
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786646/world US virus death toll hits 350,000; surge feared
+----------- GPE -------------
+US 6
+BALTIMORE 1
+M.D. 1
+the United States 1
+North Carolina 1
+Arizona 1
+Brazil 1
+Hungary 4
+Ankara 2
+LONDON 1
+Turkey 2
+Budapest 1
+----------- PERSON -------------
+Fethullah Gulen 2
+Names 1
+Recep Tayyip Erdogan 1
+Gulen 1
+Erdogan 1
+----------- ORG -------------
+Data 1
+Johns Hopkins University 2
+the Nordic Monitor 2
+Arab News 1
+anti-Erdogan 1
+----------- NORP -------------
+Turkish 5
+entities count =  40
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786506/world Afghan peace talks resume as bloodshed continues
+----------- GPE -------------
+KABUL 1
+Afghanistan 3
+Qatar 1
+US 2
+Washington 2
+Kabul 3
+----------- PERSON -------------
+Ghulam Farooq Majroh 1
+Javid Faisal 1
+Nishank Motwani 1
+Ahmad Zia Siraj 1
+Jamshid Moh 1
+----------- ORG -------------
+Taliban 10
+AFP 2
+Daesh 1
+the National Security Council 1
+Afghanistan Research and Evaluation Unit 1
+the United Nations Assistance Mission in Afghanistan 1
+----------- NORP -------------
+Afghan 4
+Afghans 1
+entities count =  38
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786481/world India approves local vaccines despite expert fears rollout ‘too early’
+----------- GPE -------------
+India 5
+Hyderabad 1
+Vellore 1
+----------- PERSON -------------
+V.G. Somani 1
+Malini Aisola 1
+Aisola 1
+T. Jacob John 1
+Jacob 1
+Narendra Modi 1
+----------- ORG -------------
+Regulator 1
+Covishield 1
+Pune 1
+Serum Institute of India (SII) 1
+the University of Oxford 1
+AstraZeneca 1
+Covaxin 1
+Bharat Biotech 2
+the Indian Council of Medical Research 2
+All India Drug Action Network 1
+AIDAN 1
+Arab News 2
+the Christian Medical College 1
+----------- NORP -------------
+Indian 1
+entities count =  30
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786271/world Pakistan workers left in the cold as housing program falters
+----------- GPE -------------
+Pakistan 2
+Islamabad 1
+China 1
+Saudi Arabia 1
+UAE 1
+----------- PERSON -------------
+Khan 4
+Mushtaq Khan 1
+Imran Khan 1
+----------- ORG -------------
+Arab News 2
+World Bank 1
+the International Monetary Fund 1
+COVID-19 1
+the Asian Development Bank 1
+Twitter 1
+Ehsaas 1
+Naya Pakistan Housing Program 1
+----------- NORP -------------
+Pakistanis 1
+entities count =  22
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786241/world UK judge to rule on US extradition for WikiLeaks’ Assange
+----------- GPE -------------
+UK 2
+US 10
+LONDON 1
+London 2
+Britain 1
+the United States of America 2
+Iraq 1
+Afghanistan 1
+----------- PERSON -------------
+Assange
+Stella Moris 1
+Assange 11
+Donald Trump 2
+Julian 1
+Vanessa 1
+Baraitser 1
+Priti Patel 1
+Stella Moris 1
+Trump 1
+Joe Biden 1
+----------- ORG -------------
+WikiLeaks 2
+Twitter 1
+----------- NORP -------------
+American 1
+entities count =  45
+=======================================================================
+Entities from post: https://www.arabnews.com/node/1786206/world 5 killed, 14 wounded in suicide attack in Somali capital
+----------- GPE -------------
+Somalia 4
+Mogadishu 4
+Turkey 3
+DUBAI 1
+Cairo 1
+UK 1
+US 1
+----------- PERSON -------------
+Fahrettin Koca 2
+Al-Shabab 1
+Abdinasir Abubakar 1
+----------- ORG -------------
+Al-Qaeda 1
+Al-Shabab 1
+Shahada News Agency 1
+the Infectious Hazard Management Unit 1
+the World Health Organization 1
+WHO 1
+Arab News 1
+----------- NORP -------------
+Somali 2
+Turkish 7
+Turks 3
+entities count =  38
+=======================================================================

@@ -1,0 +1,693 @@
+Entities from post: https://www.aljazeera.com/news/2021/1/4/pelosi-re-elected-speaker-a-new-congress-convenes Nancy Pelosi narrowly re-elected as US House speaker
+----------- GPE -------------
+US 2
+Washington 1
+DC 1
+United States 1
+California 1
+New York 1
+Louisiana 1
+Kentucky 1
+----------- PERSON -------------
+Nancy Pelosi 3
+Bill Clark 1
+Joe Biden 1
+Donald Trump 1
+Pelosi 3
+Mitch McConnell 2
+Sarah Silbiger 1
+Luke Letlow 1
+Mike Pence 1
+McConnell 1
+----------- ORG -------------
+House 6
+US Congress 1
+Congress 5
+the US Capitol 1
+Pool 1
+Reuters 2
+House of Representatives 1
+Senate 4
+COVID-19 1
+----------- NORP -------------
+Republican 3
+Republicans 1
+Democrats 3
+Democratic 1
+Americans 1
+Democrat 1
+entities count =  56
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/lebanon-several-hurt-in-gas-warehouse-blast-near-syria-border Lebanon: Several hurt in gas warehouse blast near Syria border
+----------- GPE -------------
+Lebanon 4
+Syria 5
+Al-Qasr 1
+Hermel 1
+Iran 1
+US 1
+Iraq 1
+----------- PERSON -------------
+Qassem Soleimani 1
+Hassan Nasrallah 1
+Soleimani 1
+----------- ORG -------------
+the Lebanese Red Cross 1
+The Red Cross 1
+Red Cross 1
+AFP 1
+Hezbollah 3
+News Agencies 1
+----------- NORP -------------
+Lebanese 7
+Syrian 1
+Iranian 1
+Israeli 2
+entities count =  36
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/trump-urges-georgia-official-to-overturn-vote-in-leaked-call Trump urges Georgia official to overturn vote in leaked call
+----------- GPE -------------
+US 1
+Georgia 9
+United States 1
+Fulton County 1
+Atlanta 1
+----------- PERSON -------------
+Trump 10
+Donald Trump 2
+Brad Raffensperger 2
+John Bazemore 1
+Joe Biden 1
+Biden 3
+Raffensperger 7
+Tami Chappell 1
+Mark Meadows 1
+Cleta Mitchell 1
+Ryan Germany 1
+----------- ORG -------------
+The Washington Post 4
+State 2
+AP Photo 1
+Congress 1
+State Farm Arena 1
+AFP 1
+the White House 1
+Meadows 1
+Post 1
+----------- NORP -------------
+Republican 1
+entities count =  57
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/egypt-to-probe-four-covid-deaths-due-to-alleged-lack-of-oxygen Egypt to probe four COVID deaths due to alleged lack of oxygen
+----------- GPE -------------
+Egypt 6
+Sharqia 2
+Cairo 1
+Coronavirus 1
+Menoufiya 1
+Sinopharm 1
+----------- PERSON -------------
+Amr Abdallah Dalsh 1
+Mamdouh Ghorab 1
+Sharqia 1
+Hala 1
+Zayed 1
+Hala Zayed 1
+Mohamed Maait 1
+----------- ORG -------------
+Reuters 1
+The Associated Press 1
+Intensive Care Unit 1
+Oxford University 1
+AstraZeneca 1
+Pfizer 1
+BioNTech 1
+----------- NORP -------------
+Egyptian 2
+Arab 1
+Chinese 1
+German 1
+entities count =  31
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/nile-dam-dispute-sudan-egypt-ethiopia-agree-to-hold-more-talks Nile dam dispute: Sudan, Egypt, Ethiopia agree to hold more talks
+----------- GPE -------------
+Sudan 4
+Egypt 3
+Ethiopia 5
+Addis Ababa 1
+South Africa 1
+Khartoum 1
+----------- PERSON -------------
+----------- ORG -------------
+the African Union 2
+News Agencies 1
+----------- NORP -------------
+South African 1
+Sudanese 1
+entities count =  20
+=======================================================================
+Entities from post: https://www.aljazeera.com/program/inside-story/2021/1/3/who-is-right-facebook-or-apple Who is right: Facebook or Apple?
+----------- GPE -------------
+US 1
+----------- PERSON -------------
+----------- ORG -------------
+FTC 1
+Facebook 1
+----------- NORP -------------
+entities count =  3
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/us-tops-350000-covid-deaths-amid-fears-of-new-surge US tops 350,000 COVID deaths amid fears of new surge
+----------- GPE -------------
+US 5
+Houston 1
+Texas 1
+the United States 2
+North Carolina 1
+Arizona 1
+China 1
+----------- PERSON -------------
+Go Nakamura 1
+Joe Biden 1
+Donald Trump 1
+Anthony Fauci 1
+Trump 2
+Biden 2
+Covid 1
+Donald J. Trump 1
+Fauci 2
+----------- ORG -------------
+the United Memorial Medical Center 1
+Getty Images 1
+AFP 1
+Johns Hopkins University 1
+the Centers for Disease Control and Prevention 1
+ABC News 1
+Fauci 1
+Pfizer-BioNTech 1
+Moderna 1
+----------- NORP -------------
+Americans 1
+entities count =  34
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/open-arms-boat-rescues-265-migrants-in-mediterranean Open Arms boat rescues 265 migrants in Mediterranean
+----------- GPE -------------
+Eritrea 1
+Italy 1
+Malta 1
+Libya 1
+----------- PERSON -------------
+Al Jazeera 1
+Matteo Salvini 1
+Joseph 1
+----------- ORG -------------
+Open Arms 5
+AFP 1
+European Union 1
+EU 1
+Interior 1
+----------- NORP -------------
+Spanish 1
+Libyan 2
+European 2
+Italian 1
+Maltese 1
+entities count =  23
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/eu-offers-aid-but-urges-bosnia-to-rebuild-burned-refugee-camp EU offers aid, urges Bosnia to rebuild burned refugee camp
+----------- GPE -------------
+Bosnia 9
+Brussels 3
+Bosnia and Herzegovina 1
+Lipa 1
+Una Sana canton 1
+Sarajevo 1
+----------- PERSON -------------
+Josep Borrell 2
+Elvis Barukcic 1
+Johann Sattler 1
+Sattler 2
+Selmo Cikotic 1
+Cikotic 1
+----------- ORG -------------
+EU 7
+AFP 1
+The European Union 1
+UN 2
+International Organization for Migration (IOM) 1
+IOM 1
+Bosnian Security 1
+----------- NORP -------------
+Bosnian 2
+German 1
+Italian 1
+Austrian 1
+entities count =  43
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/india-tibetans-in-exile-vote-to-elect-new-political-leader India: Tibetans in exile vote to elect new political leader
+----------- GPE -------------
+India 2
+Dharamshala 2
+Beijing 1
+Tibet 8
+China 3
+----------- PERSON -------------
+Lobsang Sangay 1
+Lobsang Sither 1
+Sither 2
+----------- ORG -------------
+the Central Tibetan Administration 1
+sikyong 1
+the Communist Party of China 1
+----------- NORP -------------
+Tibetans 9
+Tibetan 7
+Himalayan 1
+Chinese 2
+Buddhist 1
+entities count =  43
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/covid-restrictions-likely-to-get-tougher-warns-british-pm COVID restrictions likely to get ‘tougher’, warns British PM
+----------- GPE -------------
+UK 4
+the United Kingdom 1
+London 2
+England 2
+Scotland 1
+Northern Ireland 1
+Wales 1
+Italy 1
+----------- PERSON -------------
+Boris Johnson 3
+Jeff Overs 1
+Johnson 3
+Al Jazeera 1
+Andrew Simmons 1
+Simmons 1
+----------- ORG -------------
+Oxford-AstraZeneca 2
+BBC 2
+Reuters 1
+Johns Hopkins University 1
+----------- NORP -------------
+British 2
+European 1
+entities count =  32
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/indias-approval-of-own-covid-vaccine-criticised-for-lack-of-data India’s approval of own COVID vaccine criticised for lack of data
+----------- GPE -------------
+India 11
+US 1
+Brazil 1
+China 1
+----------- PERSON -------------
+Vishal Bhatnagar 1
+Narendra Modi 1
+Krishna 1
+Ella 1
+Saket Gokhale 1
+Shashi Tharoor 1
+Harsh Vardhan 1
+Vardhan 1
+----------- ORG -------------
+Covaxin 5
+DCGI 2
+NurPhoto 1
+Getty Images 1
+Bharat Biotech 2
+AstraZeneca 2
+Oxford University 1
+Bharat 1
+Ocugen Inc 1
+Central Drugs Standards Control Organisation 1
+Reuters 1
+Twitter 1
+Gokhale 1
+Health 1
+----------- NORP -------------
+Indians 1
+entities count =  44
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/several-dead-as-roof-collapses-at-indian-cremation-site-police Several dead as roof collapses at Indian cremation site: Police
+----------- GPE -------------
+India 1
+Uttar Pradesh 1
+Ghaziabad 1
+----------- PERSON -------------
+Anita C Meshram 1
+Meshram 1
+Iraj Raja 1
+Raja 1
+Narendra Modi 1
+Ram Nath Kovind 1
+----------- ORG -------------
+News Agencies 1
+----------- NORP -------------
+Indian 1
+entities count =  11
+=======================================================================
+Entities from post: https://www.aljazeera.com/economy/2021/1/3/libya-approves-new-exchange-rate-as-economy-struggles Libya starts using new exchange rate as economy struggles
+----------- GPE -------------
+Libya 2
+Tripoli 3
+United States 1
+Benghazi 2
+Geneva 1
+----------- PERSON -------------
+Ismail Zitouny 1
+Amer 1
+Malik al-Fakhri 1
+Hathem al-Barghathi 1
+Khalifa Haftar 1
+Nickolay Mlade 1
+----------- ORG -------------
+Central Bank 1
+Reuters 1
+The Central Bank of Libya 2
+Government of National Accord (GNA) 1
+GNA 1
+Libyan National Army (LNA 1
+the United Nations 1
+Al Jazeera 1
+UN 2
+----------- NORP -------------
+Libyans 1
+Bulgarian 2
+entities count =  29
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/iraqis-mark-soleimani-killing-anniversary-with-anti-us-chants Iraqis demand US troops pull out on Soleimani killing anniversary
+----------- GPE -------------
+US 7
+Soleimani 1
+Baghdad 6
+United States 1
+Iran 5
+Syria 1
+Lebanon 1
+Yemen 1
+Iraq 5
+Tehran 2
+al-Muhandis 1
+----------- PERSON -------------
+Soleimani 6
+al-Muhandis 5
+Khalid Al-Mousily 2
+Qassem Soleimani 2
+Abu Mahdi al-Muhandis 1
+Hashd al-Shaabi 3
+Faleh al-Fayyad 1
+Charles Stratford 1
+Dorsa Jabbari 1
+Ebrahim Raisi 1
+Hossein Salami 1
+----------- ORG -------------
+Reuters 2
+Popular Mobilisation Forces 1
+PMF 1
+Al Jazeera 1
+the Revolutionary Guards 1
+the Revolutionary Guard 1
+Islamic Revolutionary Guard Corps 1
+----------- NORP -------------
+Iraqis 3
+American 3
+Iranian 1
+Iraqi 5
+pro-Iranian 1
+entities count =  76
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/covid-19-vaccine-distribution-and-inoculations Graphics: Global COVID vaccine distribution and inoculations
+----------- GPE -------------
+China 1
+----------- PERSON -------------
+Al Jazeera 1
+----------- ORG -------------
+CanSino Biologics 1
+Moderna 1
+Pfizer-BioNTech 1
+----------- NORP -------------
+entities count =  5
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/egypt-approves-chinese-vaccine-roll-out-expected-in-january Egypt approves Chinese COVID vaccine, roll-out likely this month
+----------- GPE -------------
+Egypt 6
+China 1
+----------- PERSON -------------
+Ernesto Benavides 1
+Hala Zayed 1
+Zayed 2
+----------- ORG -------------
+Oxford-AstraZeneca 2
+AFP 1
+Sinopharm 2
+MBC Masr 1
+Zayed 1
+Pfizer-BioNTech 1
+Moderna 1
+AstraZeneca 1
+Oxford University 1
+Pfizer 1
+News Agencies 1
+----------- NORP -------------
+Chinese 3
+Arab 2
+Egyptian 1
+entities count =  30
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/talk-show-host-larry-king-in-hospital-with-covid-19 US talk show host Larry King in hospital with COVID: Report
+----------- GPE -------------
+Los Angeles 1
+US 1
+America 1
+----------- PERSON -------------
+Larry King 1
+King 6
+Larry King Now 1
+Daughter Chaia 1
+Andy King 1
+----------- ORG -------------
+CNN 4
+Cedars Sinai Medical Center 1
+Ora TV 1
+Twitter 1
+Los Angeles Dodgers 1
+News Agencies 1
+----------- NORP -------------
+entities count =  22
+=======================================================================
+Entities from post: https://www.aljazeera.com/features/2021/1/3/the-uks-newest-front-line-workers-afghan-fruit-sellers The UK’s newest front-line workers: Afghan fruit sellers
+----------- GPE -------------
+Birmingham 5
+England 1
+the United Kingdom 1
+UK 6
+Paktia 1
+Afghanistan 2
+Sparkhill 1
+Sparkbrook 1
+Nafi 1
+----------- PERSON -------------
+Abdul Nafi 1
+Hazel-eyed 1
+Nafi 2
+Anam Hussain 1
+Al Jazeera 1
+----------- ORG -------------
+Paktia 1
+Taliban 1
+Health and Safety Executive 1
+----------- NORP -------------
+South Asian 2
+Muslim 1
+Afghan 1
+entities count =  32
+=======================================================================
+Entities from post: https://www.aljazeera.com/opinions/2021/1/3/killing-julian-assange Killing Julian Assange
+----------- GPE -------------
+London 3
+the United States 1
+US 8
+Afghanistan 1
+Iraq 1
+Baghdad 1
+Colorado 1
+Oklahoma City 1
+UK 1
+----------- PERSON -------------
+Julian Assange 2
+Henry Nicholls 1
+Assange 7
+Chelsea Manning 1
+Charles Glass 1
+Dzhokhar Tsarnaev 1
+Terry Nichols 1
+Nils Melzer 1
+----------- ORG -------------
+WikiLeaks 3
+Reuters 2
+US Army 1
+ABC News 1
+Boston Marathon 1
+The Lancet 1
+the United Nations 1
+----------- NORP -------------
+British 2
+Ecuadorian 1
+Australian 1
+Iraqis 1
+Iraqi 1
+entities count =  49
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/norway-finds-fifth-body-in-mudslide-five-more-people-missing Rescue workers in Norway find seventh body after landslide
+----------- GPE -------------
+Norway 3
+Ask 1
+Oslo 2
+Sweden 1
+----------- PERSON -------------
+Erik Schroeder 1
+Bjorn Christian Willersrud 1
+King Harald 1
+Eirik Gronolen 1
+Erna Solberg 1
+----------- ORG -------------
+News
+Rescue 1
+NTB 1
+Reuters 1
+News Agencies 1
+----------- NORP -------------
+entities count =  16
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/gunmen-kill-at-least-11-from-shia-minority-in-south-west-pakistan Gunmen kill many Hazara Shia coal miners in southwest Pakistan
+----------- GPE -------------
+Pakistan 2
+Balochistan 2
+Quetta 2
+Lashkar-e-Jhangvi 1
+Balochistan province 1
+Mach Baluchistan 1
+China 1
+Harnai 1
+----------- PERSON -------------
+Banaras Khan 1
+Moazzam Ali Jatoi 1
+Jatoi 2
+Imran Khan 1
+Kulsoom Hazara 1
+----------- ORG -------------
+AFP 1
+the Levies Force 1
+ISIL 1
+ISIS 1
+Amaq news agency 1
+Telegram 1
+Frontier Constabulary 1
+Taliban 1
+Al Jazeera 1
+----------- NORP -------------
+Hazara 3
+Shia 1
+Hazara Shia 3
+Shia Muslim 1
+Pakistani 1
+Sunni 1
+Hazara Shia Muslims 1
+Shia Muslims 1
+entities count =  38
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/court-to-decide-assanges-face-over-us-extradition UK court to rule on WikiLeaks founder Assange’s US extradition
+----------- GPE -------------
+UK 1
+US 9
+Belmarsh 2
+London 3
+the United States 1
+Afghanistan 2
+Iraq 1
+Ecuador 1
+Sweden 1
+Virginia 1
+Vietnam 1
+the United Kingdom 1
+----------- PERSON -------------
+Assange 7
+Julian Assange 2
+Henry Nicholls 1
+Noam Chomsky 1
+Julia 1
+Hall 1
+Chelsea Manning 1
+Manning 1
+Daniel Ellsberg 1
+----------- ORG -------------
+WikiLeaks 4
+Reuters 2
+MIT 1
+Al Jazeera 2
+Amnesty International 1
+Interpol 1
+US Army 1
+Wikileaks 1
+----------- NORP -------------
+British 1
+Australian 3
+Iraqis 1
+American 1
+entities count =  59
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/saudi-arabia-reopens-borders-resumes-international-flights Saudi Arabia reopens borders, resumes international flights
+----------- GPE -------------
+Saudi Arabia 5
+Riyadh 2
+UK 1
+Oman 1
+Kuwait 1
+Britain 1
+South Africa 1
+----------- PERSON -------------
+----------- ORG -------------
+AFP 1
+the ministry of interior 1
+Saudi Press Agency 1
+News Agencies 1
+----------- NORP -------------
+Saudi 2
+Arab 1
+entities count =  19
+=======================================================================
+Entities from post: https://www.aljazeera.com/news/2021/1/3/baghdad-procession-marks-anniversary-of-iran-generals-death Thousands march in Baghdad on Soleimani assassination anniversary
+----------- GPE -------------
+Baghdad 6
+Soleimani 2
+Iraq 4
+the United States 1
+al-Muhandis 1
+Iran 4
+Lebanon 1
+Syria 1
+US 3
+Tehran 2
+Washington 1
+----------- PERSON -------------
+Qassem Soleimani 2
+Abu Mahdi al-Muhandis 3
+Khalid Al-Mousily 1
+Soleimani 4
+al-Muhandis 1
+Thaier Al-Sudani 2
+Al Jazeera 1
+Charles Stratford 1
+----------- ORG -------------
+News | Soleimani 1
+Reuters 3
+Revolutionary Guard 1
+Quds Force 1
+the United Nations Security Council 1
+----------- NORP -------------
+Iraqis 1
+Iranian 3
+Iraqi 5
+Islamic 1
+Americans 1
+entities count =  59
+=======================================================================

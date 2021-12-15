@@ -1,0 +1,1374 @@
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/american-elections-2016/2021/01/04/%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AE%D8%B7%D9%88%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86- لمواجهة تهديدات إيران.. خطوة جديدة من البنتاغون
+----------- GPE -------------
+Iran 9
+US 4
+Soleimani 1
+Iraq 1
+the United States 2
+Tehran 2
+----------- PERSON -------------
+Trump 2
+Joe Biden 2
+Jake Sullivan 1
+Biden 1
+America
+Pompeo 1
+Mike Pompeo 1
+Pompeo 1
+----------- ORG -------------
+Pentagon 2
+CNN 1
+State 1
+US Army 1
+Fox News 1
+----------- NORP -------------
+Iranian 5
+American 1
+entities count =  40
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/iraq/2021/01/03/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B9%D9%84%D9%89-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%86%D8%A7 العراق: على أميركا وإيران احترام سيادة أراضينا
+----------- GPE -------------
+Iraq 3
+America 4
+Iran 7
+Baghdad 4
+US 2
+the Green Zone 2
+Washington 1
+----------- PERSON -------------
+Asa'ib Ahl al-Haq" 1
+Mustafa Al-Kazemi 1
+Al-Kazemi 1
+Al-Kazemi's 1
+----------- ORG -------------
+AFP 1
+The Iraqi Army 1
+Reuters 1
+Kataib 1
+Hezbollah 1
+the Iraqi Hezbollah Brigades 1
+----------- NORP -------------
+Iraqi 8
+American 1
+Iraqis 1
+pro-Iran 1
+entities count =  44
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/syria/2021/01/04/%D8%A8%D9%84%D8%B3%D8%A7%D9%86-%D8%AD%D8%B3%D9%86-%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B7%D8%B9%D9%86-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7%D9%8B بلسان حسن نصر الله.. إيران تطعن الأسد مجدداً
+----------- GPE -------------
+Iran 8
+Hafez al-Assad 1
+Tehran 2
+Syria 5
+Baghdad 1
+Damascus 6
+Lebanon 4
+Iraq 1
+Israel 1
+West Bekaa 1
+the Soviet Union 1
+Tel Aviv 1
+----------- PERSON -------------
+Hassan Nasrallah 5
+Assad 9
+Bashar al-Assad 3
+Hafez Al-Assad 1
+Bashar 1
+Assad Hassan Nasrallah 1
+Qassem Soleimani 3
+Khomeini 5
+Hafez al-Assad 2
+Saddam Hussein 2
+Nasrallah 7
+Hafez 1
+Khomeini
+Qassem Soleimani 1
+Putin 2
+----------- ORG -------------
+Hezbollah 2
+the Revolutionary Guard 1
+The Revolutionary Guard 1
+the Iranian Revolutionary Guards 1
+Revolutionary Guard 1
+----------- NORP -------------
+Syrian 6
+Lebanese 1
+Israeli 7
+American 1
+Khomeinist 1
+Arab 1
+Syrians 1
+Iranian 2
+Soviets 1
+Russian 2
+entities count =  104
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/iran/2021/01/04/%D8%B8%D9%84-%D8%B5%D8%AD%D8%A7%D9%81%D9%8A-%D8%A3%D8%B9%D8%AF%D9%85%D8%AA%D9%87-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D9%84%D8%A7%D8%AD%D9%82%D9%87%D8%A7-%D8%AD%D9%85%D9%84%D8%A9-%D9%84%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9- ظل صحافي أعدمته إيران يلاحقها.. حملة للمحاسبة!
+----------- GPE -------------
+Iran 5
+Tehran 2
+Turkey 2
+Netherlands 1
+Germany 1
+the Sultanate of Oman 1
+Sweden 1
+----------- PERSON -------------
+Ruhollah 1
+Zam 5
+Rouhollah Zam 1
+Ruhollah Zam 1
+Masoud Mawlawi 1
+Saeed Karimian 1
+Ahmed Nessi 1
+Muhammad Reza Klahi 1
+Jamshid Sharmhad 1
+Habib Kaab 1
+Asyud 1
+----------- ORG -------------
+the Iranian Radio and Television Corporation 1
+Social Media Shahid 1
+the "Sahham News" 1
+Amad News" 1
+Telegram 1
+the Supreme Court 1
+Mujahideen 1
+the Arab Struggle Movement for the Liberation of Ahwaz 1
+the “Union for Binding 1
+the European Union 1
+the Iranian Radio and Television Organization 1
+IRIB 1
+----------- NORP -------------
+Iranian 10
+Iranians 1
+Evin 1
+Ahwazi 1
+European 1
+entities count =  54
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/american-elections-2016/2021/01/04/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%B1%D9%81%D9%8A%D8%B9-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%84%D9%82%D9%84%D8%A8-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA تحذير أميركي رفيع من استخدام الجيش لقلب نتائج الانتخابات
+----------- GPE -------------
+US 9
+the United States 2
+America 1
+----------- PERSON -------------
+Al-Arabiya 1
+----------- ORG -------------
+the Washington Post 1
+the Department of Defense 2
+the Electoral College 1
+Archives - France Press 2
+the Ministry of Defense 1
+----------- NORP -------------
+American 1
+entities count =  21
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/american-elections-2016/2021/01/04/%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%B9%D9%86%D8%AF-%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D9%81%D9%8A-%D8%AA%D9%83%D8%B3%D8%A7%D8%B3-%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AC%D8%B1%D8%AD%D9%89 إطلاق نار عند كنيسة في تكساس.. قتيل وجرحى
+----------- GPE -------------
+Texas 4
+US 1
+America 1
+Illinois 1
+USA 1
+Starville 1
+Dallas 1
+Smith County 1
+Harrison County 1
+----------- PERSON -------------
+Jan 03 1
+Greg Abbott 1
+Abbott 1
+Larry Smith 1
+Smith 1
+----------- ORG -------------
+Reuters 1
+Starville Church 1
+NBC 1
+Starville Methodist Church 1
+US Police Force 1
+----------- NORP -------------
+entities count =  22
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/american-elections-2016/2021/01/04/%D9%85%D8%AC%D8%AF%D8%AF%D8%A7%D9%8B-%D9%86%D8%A7%D9%86%D8%B3%D9%8A-%D8%A8%D9%8A%D9%84%D9%88%D8%B3%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8 مجدداً.. نانسي بيلوسي رئيسة لمجلس النواب
+----------- GPE -------------
+US 4
+America 1
+San Francisco 1
+the United States 1
+----------- PERSON -------------
+Nancy Pelosi 3
+Pelosi 2
+Kevin McCarthy 2
+McNeil 1
+Joe Biden 1
+Biden 1
+----------- ORG -------------
+the House of Representatives 3
+House of Representatives 2
+House 1
+Congress 3
+----------- NORP -------------
+Republican 2
+Democratic 2
+entities count =  30
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/technology/2021/01/04/%D9%87%D9%84-%D9%8A%D9%85%D9%83%D9%86%D9%83-%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D9%85%D9%86-%D8%B2%D8%A7%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D9%83-%D9%81%D9%8A-%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85%D8%9F هل يمكنك معرفة من زار حسابك في انستغرام؟
+----------- GPE -------------
+Dubai 1
+----------- PERSON -------------
+Alex Head 1
+Alex Heid 1
+Instagram 1
+Julian Gutman 1
+----------- ORG -------------
+Instagram 7
+the App Store 2
+Google Play 2
+SecurityScoreCard 1
+Business Insider 1
+Followmeter 1
+----------- NORP -------------
+Arab 1
+entities count =  20
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/american-elections-2016/2021/01/03/%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3-%D8%A8%D8%A7%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA جمهوريون يطالبون الكونغرس بإقرار نتائج الانتخابات
+----------- GPE -------------
+America 1
+Georgia 1
+US 2
+----------- PERSON -------------
+Joe Biden 1
+Susan Collins 1
+Lisa Murkowski 1
+Bill Cassidy 1
+Mitt Romney 1
+Joe Mansheen 1
+Mark Warner 1
+Jane Shaheen 1
+Maggie Hassan 1
+Dick Durban 1
+Angus King 1
+Biden 1
+Trump 1
+Mike Pence 1
+Joe Biden's 1
+Pence 1
+----------- ORG -------------
+Congress 5
+Independent 1
+Archives - France Press 1
+Senate 1
+Electoral College 2
+House of Representatives 1
+----------- NORP -------------
+Republicans 1
+Republican 5
+Democrat 1
+Democratic 1
+entities count =  39
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/american-elections-2016/2021/01/03/%D8%AA%D8%B1%D9%85%D8%A8-%D8%B9%D8%AF%D8%AF-%D8%A7%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%85%D8%A8%D8%A7%D9%84%D8%BA-%D9%81%D9%8A%D9%87 فاوتشي يرد على اتهامات ترمب: أرقام وفيات كورونا حقيقية
+----------- GPE -------------
+US 1
+Corona 2
+the United States 6
+China 1
+The United States 1
+----------- PERSON -------------
+Anthony Fauci 1
+Donald Trump 3
+Trump 5
+Anthony Fuchi 1
+Fauci 2
+Jerome Adams 1
+Adams 2
+Covid 1
+Donald J. Trump 1
+Biden 2
+Joe Biden 1
+----------- ORG -------------
+the White House
+Fauci 1
+the American Institute of Infectious Diseases 1
+White House 1
+CNN 1
+the State of the Union 1
+the US Centers for Disease Control and Prevention 1
+Twitter 1
+the Center for Epidemic Control and Prevention 1
+Reuters 1
+Johns Hopkins University 1
+----------- NORP -------------
+American 1
+Chinese 1
+Democratic 1
+Americans 2
+Republican 1
+entities count =  47
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/yemen/2021/01/03/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D8%AF%D9%86-%D9%83%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85%D8%A7-%D9%84%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A وزير إعلام اليمن: تفجير مطار عدن كان انتقاما لمقتل سليماني
+----------- GPE -------------
+Aden 4
+Yemen 3
+Baghdad 1
+Tehran 3
+Al-Houthi 1
+Riyadh 1
+----------- PERSON -------------
+Soleimani
+Al-Eryani 1
+Al-Houthi 2
+Muammar Al-Eryani 1
+Qassem Soleimani 2
+Ibrahim Al-Dailami 1
+Soleimani 2
+- Muammar Al-Eryani 2
+Ibrahim al-Dailami 1
+Maeen Abdul-Malik 1
+----------- ORG -------------
+Foreign Ministry 1
+@ERYANIM 2
+Quds Force 1
+Yemeni Airlines 1
+Houthi 1
+----------- NORP -------------
+Iranian 8
+Yemeni 2
+Iraqi 1
+American 1
+Houthi 6
+Yemenis 1
+entities count =  51
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/egypt/2021/01/03/%D8%A8%D9%86%D8%A7%D8%A1-78-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%AF-%D9%88%D8%A7%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D9%84%D9%86-%D9%86%D9%82%D8%A8%D9%84-%D8%A8%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%8A%D8%AD%D8%AF-%D9%85%D9%86-%D8%AD%D9%82%D9%86%D8%A7 مصر تتحدث عن اتفاق ملزم.. وإثيوبيا: لن نفرط في حقنا
+----------- GPE -------------
+Egypt 5
+Ethiopia 4
+Tehran 1
+Sudan 3
+South Africa 3
+Cairo 1
+South Africa's 1
+----------- PERSON -------------
+Sameh Shoukry 1
+Mohamed Abdel Aty 1
+Rai 1
+Addis Ababa 1
+----------- ORG -------------
+The Egyptian Foreign Ministry 1
+the Egyptian Foreign Ministry 3
+Social Media Soleimani 1
+Hezbollah 1
+Irrigation 1
+the Ministers of Foreign Affairs and Irrigation 1
+the African Union 2
+the African Union Commission 1
+the Ethiopian Ministry of Irrigation 1
+the Sudanese Ministry of Irrigation 1
+African Union 1
+----------- NORP -------------
+Egyptian 1
+Ethiopian 1
+African 1
+entities count =  39
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/american-elections-2016/2021/01/03/%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%8A%D8%AC%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6-%D8%B9%D9%84%D9%89-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A مستشار بايدن: يجب التفاوض على البرنامج الصاروخي قبل الاتفاق النووي
+----------- GPE -------------
+US 3
+Iran 5
+Egypt 1
+Tehran 2
+the United States 1
+----------- PERSON -------------
+Joe Biden 3
+Jake Sullivan 2
+Biden 2
+Sullivan 1
+Trump 1
+Mike Pompeo 1
+Pompeo 1
+----------- ORG -------------
+CNN 1
+State 1
+Fox News 1
+----------- NORP -------------
+Egyptian 1
+Iranian 2
+American 1
+entities count =  30
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/egypt/2021/01/03/%D9%82%D8%AA%D9%84-%D8%B2%D9%88%D8%AC%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D8%B9-%D9%88%D8%AC%D9%84%D8%B3-%D9%8A%D8%AF%D8%AE%D9%86-%D8%A8%D8%AC%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D8%AB%D8%A9- فيديو لمصري يقتل زوجته بالشارع.. وجلس يدخن بجوار الجثة
+----------- GPE -------------
+Cairo 1
+----------- PERSON -------------
+Fajr al-Nur" 1
+Corona 1
+----------- ORG -------------
+Giza Investigations 1
+----------- NORP -------------
+Egyptian 2
+entities count =  6
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/yemen/2021/01/03/%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A3%D8%AF%D9%84%D8%A9-%D8%AA%D9%88%D8%B1%D8%B7%D9%87%D8%A7-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D8%AF%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A-%D8%AA%D8%B4%D9%86-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA بعد تسريب أدلة تورطها بهجوم مطار عدن.. الحوثي تشن حملة اعتقالات
+----------- GPE -------------
+Aden 8
+Yemen 2
+Mawiyah Junction 1
+Al-Jundiya 2
+Al-Saleh 1
+Cairo 1
+Dhamar 2
+Dhamar city 1
+----------- PERSON -------------
+Al-Houthi 1
+Moein Abdul-Malik 1
+----------- ORG -------------
+Houthis 3
+Al-Shari 1
+the Abi Al-Hassan Al-Hamdani School 1
+----------- NORP -------------
+Houthi 4
+Yemeni 2
+entities count =  31
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/iran/2021/01/03/%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%AA%D9%87%D8%B2-11-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D8%AC%D8%B2-%D8%A8%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AA%D8%A8 احتجاجات للمتقاعدين في إيران "يا ويلكم من كل هذا الظلم"
+----------- GPE -------------
+Iran 3
+Basenchestan 1
+Tehran 2
+Persia 1
+Kurdistan 1
+Ahwaz 1
+Alborz 1
+Qazvin 1
+East Azerbaijan 1
+Hamadan 1
+Lorestan 1
+Isfahan 1
+Tabriz 1
+NW 1
+@IranNW 1
+Corona 2
+US 1
+----------- PERSON -------------
+Tehran Yakshanbe 1
+Gardacht 1
+- Dustan Iran Azad (@FriendsFreeIran 1
+Khorasan Razavi 1
+----------- ORG -------------
+Insurance Department 1
+the Research Center 1
+the Iranian Parliament 1
+the International Monetary Fund 1
+----------- NORP -------------
+Iranian 5
+entities count =  34
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/2021/01/03/-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D8%A7%D9%84%D9%82%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AC-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D9%85%D8%B9-%D9%84%D8%A8%D9%86%D8%A7%D9%86 إسرائيل تمنع التحرك بالقرب من السياج الحدودي مع لبنان
+----------- GPE -------------
+Israel 5
+Lebanon 4
+Jerusalem 1
+Metula 1
+Syria 2
+Iran 1
+----------- PERSON -------------
+Gilad Erdan 1
+Roman Goffman 1
+Golan 1
+----------- ORG -------------
+Archive - Reuters 2
+Al-Arabiya 1
+Hezbollah 7
+the Northern Front Command 1
+Israel Today 1
+the United Nations 1
+the UN Security Council 1
+IDF 1
+210th Division 1
+----------- NORP -------------
+Lebanese 5
+Israeli 4
+entities count =  42
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/social-media/2021/01/03/%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A-%D8%A8%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D9%86%D8%A7%D8%B4%D8%B7%D9%88%D9%86-%D9%8A%D9%86%D8%AA%D9%82%D8%AF%D9%88%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A3%D9%82%D8%B1%D8%A8- سليماني بمناطق حزب الله.. وناشطون ينتقدون "طهران أولى"
+----------- GPE -------------
+Lebanon 3
+Tehran 4
+Baghdad 2
+Syria 1
+Arabsalim 3
+Soleimani 1
+US 1
+@Bacharnáabi 1
+Ghobeiry 1
+Beirut 1
+Bekaa 1
+Brital 1
+Iran 2
+the United States 1
+Israel 1
+----------- PERSON -------------
+Soleimani 4
+Qassem Soleimani 1
+Qassem Soleimani's 1
+Bashar Al Halabi 1
+Ali Khamenei 1
+----------- ORG -------------
+Archives - France Press 1
+Hezbollah 4
+Quds Force 1
+the Iranian Revolutionary Guard 1
+----------- NORP -------------
+Lebanese 4
+Iraqi 1
+Iranian 4
+American 1
+entities count =  49
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/yemen/2021/01/03/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A-%D9%8A%D8%B3%D9%82%D8%B7-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AD%D9%88%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%81 الجيش اليمني يسقط درون حوثية بالجوف.. وصور تكشف حجمها
+----------- GPE -------------
+Yemen 2
+Houthi 1
+Al-Hazm 1
+Sana'a 1
+Arhab 1
+Amran 1
+Dharawan 1
+----------- PERSON -------------
+----------- ORG -------------
+Houthi 2
+the National Army 1
+the United Nations Committee of Experts 1
+Ababeel-T 1
+the Iran Aircraft Manufacturing Company 1
+----------- NORP -------------
+Yemeni 6
+Houthi 5
+Iranian 2
+entities count =  27
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/2021/01/03/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B6%D8%AE%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9 بالفيديو.. انفجار ضخم على الحدود اللبنانية السورية
+----------- GPE -------------
+Qusayr 1
+----------- PERSON -------------
+----------- ORG -------------
+The Lebanese Army 1
+----------- NORP -------------
+Lebanese 2
+Al-Obaid 1
+Syrian 1
+entities count =  6
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/culture-and-art/2021/01/03/%D9%83%D9%8A%D9%81-%D9%88%D9%82%D9%81-%D9%88%D8%AD%D9%8A%D8%AF-%D8%AD%D8%A7%D9%85%D8%AF-%D9%81%D9%8A-%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%A7%D8%B1%D9%87%D8%A7%D8%A8%D8%9F-%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%AA%D9%87 كيف وقف وحيد حامد في وجه الإرهاب؟.. شهادات على عبقريته
+----------- GPE -------------
+Syria 2
+----------- PERSON -------------
+Waheed Hamed 3
+Omar Waheed Hamed 1
+Ain Issa
+Wahid Hamed 1
+Al-Arabiya.net 1
+Tariq Al-Shennawi 2
+Wahid Hamid 1
+Al-Shennawi 2
+Omar 1
+Al Mansi 1
+Sabreen 5
+Al-Jamaa" 1
+Wahid Hamed 2
+Magdi Yaqoub 1
+Ahmed Zewail 1
+Zainab Al-Ghazali" 1
+Iyad Nassar 1
+----------- ORG -------------
+Al-Arabiya. 1
+----------- NORP -------------
+Arab 1
+Egyptian 2
+Turkish 1
+Muslim 1
+Christian 1
+entities count =  34
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/aswaq/special-stories/2021/01/03/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%AE%D8%B7%D8%B1-%D9%8A%D8%B9%D9%82%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-2021- خطر اقتصادي يعقد المشهد في تركيا خلال 2021
+----------- GPE -------------
+Turkey 5
+Istanbul 1
+----------- PERSON -------------
+Naji Aghbal 1
+Aghbal 1
+Nihan Zaya Erdem 1
+----------- ORG -------------
+Bloomberg 1
+Bitcoin 1
+Granty PPA 1
+Brent 1
+the Economic Management Team 1
+Aghbal 2
+Treasury 1
+the Chamber of Commerce 1
+----------- NORP -------------
+Turkish 2
+entities count =  20
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/iraq/2021/01/03/%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6-%D9%82%D9%88%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D9%84%D9%88-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D9%8A%D8%A8%D9%83%D9%88%D9%86-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A استعراض قوة في بغداد.. موالو الحشد يبكون سليماني
+----------- GPE -------------
+Baghdad 7
+Iraq 4
+Iran 4
+the United States 3
+US 7
+Washington 1
+Israel 1
+Tehran 4
+----------- PERSON -------------
+Qassem Soleimani 1
+Abu Mahdi Al-Muhandis 1
+Soleimani 6
+Donald Trump 1
+Mohammad Javad Zarif 1
+Trump 3
+Al-Muhandis 2
+Christopher Miller 1
+Nimitz 1
+----------- ORG -------------
+the Popular Mobilization Forces 2
+the Quds Force 2
+the Iranian Revolutionary Guard 1
+the Popular Mobilization Authority 1
+Defense 1
+The New York Times" 1
+----------- NORP -------------
+pro-Iranian 2
+anti-American 2
+American 2
+Iranian 3
+Israeli 2
+Republican 1
+entities count =  68
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/syria/2021/01/03/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%AD%D9%8A%D8%B7-%D8%B9%D9%8A%D9%86-%D8%B9%D9%8A%D8%B3%D9%89 سوريا.. قاعدة عسكرية تركية جديدة في محيط عين عيسى
+----------- GPE -------------
+Syria 1
+Ain Issa 2
+Raqqa 1
+Saudi Arabia 2
+Corona 1
+Tamamih 1
+Kafrlossin 1
+Idlib 2
+----------- PERSON -------------
+----------- ORG -------------
+The Syrian Observatory for Human Rights 1
+the Syrian Democratic Forces 1
+----------- NORP -------------
+Turkish 7
+Syrian 3
+entities count =  23
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/aswaq/special-stories/2021/01/03/%D8%AB%D8%B1%D9%88%D8%A7%D8%AA-%D9%85%D8%A7%D8%B3%D9%83-%D8%A3%D9%84%D9%87%D9%85%D9%87%D9%85-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%AF%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%B9-%D9%86%D9%85%D9%88%D8%A7%D9%8B-%D9%81%D9%8A-2020- ماسك ألهمهم..المليارديرات الأسرع نمواً في 2020!
+----------- GPE -------------
+Corona 1
+Egypt 2
+Singapore 1
+Guangzhou 1
+China 1
+----------- PERSON -------------
+Musk 1
+William Lee 1
+William Li 1
+Zhong Chanshan 2
+Mukesh Ambani 1
+Chung 2
+Pat Musk 1
+Forrest Lee
+Forrest Lee 1
+Lee 1
+Xiaoping
+Xiaoping 1
+----------- ORG -------------
+Elon Musk 3
+Tesla 4
+the Niu Corporation 1
+Nongfu Spring 1
+the Beijing Intai Biopharmaceutical Company 1
+the Bloomberg Billionaires Index 1
+the S & P500 Index 1
+Musk 1
+SpaceX 1
+C Corporation Ltd. 1
+Garena 1
+League of Legends 1
+Arena of Courage 1
+FIFA 1
+Shopee 1
+XPeng Motors 1
+the New York Stock Exchange 1
+----------- NORP -------------
+Chinese 2
+Saudi 1
+Indian 1
+entities count =  44
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/last-page/2021/01/03/%D9%85%D9%86-5-%D9%82%D8%B1%D9%88%D9%86-%D9%8A%D9%88%D9%85%D9%8C-%D9%8A%D8%B9%D8%AC%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D8%B9%D9%86-%D9%86%D8%B3%D9%8A%D8%A7%D9%86%D9%87 من 5 قرون.. يومٌ يعجز العرب والغرب عن نسيانه
+----------- GPE -------------
+Andalusia 11
+Granada 6
+al-Akhbaris 1
+Castile 1
+Medina 1
+Zafra al-Maghribi 1
+----------- PERSON -------------
+Fernando 3
+Isabella 2
+Taha Abdel-Hamid Abdel-Maqsoud 1
+Al-Bayan Al-Maghrib 2
+Ibn Adhari 1
+Othman bin Affan 1
+Musa bin Nusayr 1
+Tarif Abi Zar'ah 1
+Tariq bin Ziyad 3
+Musa bin Nasir 1
+Al-Bayan Al-Maghrib" 1
+Caliph Othman 1
+Al-Walid bin Abdul Malik 1
+Leon Isabella 1
+Aba Abd God Muhammad 1
+Boutros Al-Bustani 1
+Abu Abdullah 1
+Al-Bustani 1
+al-Bustani 2
+al-Maqri al-Tlemceni 1
+Washington Irving 1
+----------- ORG -------------
+the "Battles of Andalusia" 1
+the Al-Hamra Palace 1
+----------- NORP -------------
+Arabs 6
+Arab 5
+Catholic 1
+Muslims 1
+Rashidun 1
+Umayyad 1
+Sultans 1
+Granatists 1
+American 1
+entities count =  69
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/yemen/2021/01/03/%D8%A7%D9%84%D8%B5%D9%84%D9%8A%D8%A8-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%81%D9%82%D8%AF%D9%86%D8%A7-3-%D9%85%D9%86-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D8%AF%D9%86 الصليب الأحمر باليمن: فقدنا 3 من موظفينا بانفجار مطار عدن
+----------- GPE -------------
+Aden 3
+Yemen 2
+Riyadh 1
+----------- PERSON -------------
+Bashir Al-Selwi 1
+Maeen Abdul-Malik 1
+----------- ORG -------------
+the Red Cross 3
+Aden Airport - Archives
+Yemen Red Cross 1
+Al-Arabiya 1
+Yemeni Airlines 1
+Houthi 1
+----------- NORP -------------
+Yemeni 1
+Iranian 1
+entities count =  17
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/egypt/2021/01/03/%D8%A8%D8%B9%D8%AF-%D9%81%D8%B4%D9%84-%D9%88%D9%85%D8%B1%D8%A7%D9%88%D8%AD%D8%A9-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%B3%D8%AF-%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9-%D8%AA%D9%86%D8%B7%D9%84%D9%82-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A7 بعد فشل ومراوحة..مفاوضات سد النهضة تنطلق ثانية افتراضيا
+----------- GPE -------------
+Egypt 4
+Ethiopia 4
+Sudan 4
+the Renaissance Dam 1
+South Africa 1
+Khartoum 2
+----------- PERSON -------------
+Sameh Shoukry 1
+Mohamed Abdel Ati. 1
+----------- ORG -------------
+Archives - France Press 3
+the African Union 3
+Foreign Ministry 1
+Sudanese News Agency 1
+SUNA 1
+African Union 1
+the European Union 1
+Grand Renaissance Dam (France Press 1
+----------- NORP -------------
+Egyptian 1
+American 1
+Sudanese 1
+entities count =  33
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/egypt/2021/01/03/%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A3%D9%81%D9%84%D8%A7%D9%85%D9%87-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%B4%D9%85%D8%AA%D8%AA-%D8%A7%D9%84%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D8%A8%D9%88%D9%81%D8%A7%D8%A9-%D9%88%D8%AD%D9%8A%D8%AF-%D8%AD%D8%A7%D9%85%D8%AF%D8%9F الإجابة في أفلامه.. لماذا شمتت الإخوان بوفاة وحيد حامد؟
+----------- GPE -------------
+Iraq 2
+----------- PERSON -------------
+Wahid Hamed 3
+Waheed Hamed 2
+Hassan al-Banna 1
+Hamed 3
+Al-Halifut 1
+Wahid Hamid 1
+Khaled Montaser 1
+Syed Qutb 1
+Montasser 1
+----------- ORG -------------
+Brotherhood 6
+Hezbollah 1
+the "Al-Jamaa" 1
+Al-Arabiya.net 1
+Central Security 1
+the Central Security Forces 1
+----------- NORP -------------
+Egyptians 1
+Arabs 1
+Egyptian 2
+Islam 1
+Kalashnikov 1
+entities count =  33
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/iraq/2021/01/03/%D8%AD%D8%B1%D8%A7%D9%83-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D9%86%D8%B2%D8%B9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D8%AE%D8%B5 حراك في بغداد.. لنزع السلاح غير المرخص
+----------- GPE -------------
+Baghdad 3
+Iraq 1
+US 2
+the Green Zone 2
+Iran 2
+Washington 1
+----------- PERSON -------------
+Al-Kazemi 2
+Mustafa Al-Kazemi 1
+Al-Kazemi's 1
+----------- ORG -------------
+Archives - France Press)
+Movement 1
+the Third Regiment 1
+Sixth Brigade 1
+the Federal Police Intelligence Directorate 1
+the Ministry of the Interior 1
+AFP 1
+the Iraqi Hezbollah Brigades 1
+----------- NORP -------------
+Iraqi 6
+Iranian 2
+pro-Iran 1
+entities count =  31
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/iran/2021/01/03/%D9%88%D8%B3%D8%B7-%D8%AA%D9%88%D8%AA%D8%B1-%D9%85%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%81%D8%A7%D9%87%D8%A9- وسط توتر متصاعد..إسرائيل ترد على اتهامات طهران: "تفاهة"
+----------- GPE -------------
+Israel 5
+Tehran 6
+Iran 5
+the United States 4
+Baghdad 3
+US 8
+Iraq 4
+Washington 1
+----------- PERSON -------------
+Mohammad Javad Zarif 2
+Zarif 2
+Iran Qaani 1
+Soleimani 2
+Yuval Steinitz 1
+Kan 1
+Qassem Soleimani 1
+Donald Trump 1
+Hossein Salami 1
+Trump 3
+Christopher Miller 1
+Nimitz 1
+----------- ORG -------------
+Hezbollah 1
+Twitter 1
+Archive - Reuters 1
+the Revolutionary Guard 2
+the Quds Force 1
+Defense 1
+The New York Times" 1
+US Expression Forces 1
+iStock 1
+----------- NORP -------------
+Israeli 6
+Iranian 8
+American 2
+Americans 1
+Iraqi 1
+Republican 1
+entities count =  82
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/2021/01/03/%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%88%D8%B1-%D9%8A%D8%B1%D8%B9%D8%A8-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%AA%D8%A3%D9%83%D9%8A%D8%AF-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A2%D9%85%D9%86%D8%A9- كورونا المتحور يرعب بريطانيا.. وتأكيد رسمي "المدارس آمنة"
+----------- GPE -------------
+Britain 4
+London 1
+England 1
+----------- PERSON -------------
+Johnson 2
+Boris Johnson 2
+----------- ORG -------------
+Oxford / AstraZeneca 1
+the British Broadcasting Corporation 1
+BBC 1
+Archive - Reuters 1
+----------- NORP -------------
+British 2
+entities count =  16
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/north-africa/2021/01/03/%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A%D8%A9-%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D9%82-%D8%AA%D9%86%D9%82%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%88%D8%AA%D8%B1%D9%81%D8%B6-%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%B7%D8%B1%D9%82%D8%A7%D8%AA فصائل الوفاق تنقلب على التفاهمات.. وترفض فتح الطرقات
+----------- GPE -------------
+Libya 4
+Sirte Al-Jafra 2
+Misurata 2
+Sirte 6
+Al-Jufra 1
+Coastal 1
+Tripoli 1
+----------- PERSON -------------
+Salah Badi 2
+Hamida Al-Jrou 1
+Khaled Issa Karrouad 1
+Fathi Bashagha 1
+Al-Wefaq 1
+----------- ORG -------------
+Al-Wefaq 2
+The Accord Forces 1
+The Government of National Accord 1
+the "Sumud militia" 1
+Al-Jufra 1
+the "Hateen Brigade" 1
+The Joint Military Committee 1
+5 + 5) 1
+Al-Wefaq forces' 1
+----------- NORP -------------
+Libyan 4
+Arab 1
+Libyans 1
+Syrian 1
+entities count =  40
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/yemen/2021/01/03/%D9%85%D8%A6%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%A8%D9%85%D8%B9%D8%AA%D9%82%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A-%D9%88%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AC%D8%B3%D9%8A%D9%85%D8%A9-%D8%A8%D8%AD%D9%82%D9%87%D9%86 مئات النساء بمعتقلات الحوثي.. خطف واعتداءات جسيمة
+----------- GPE -------------
+Yemen 2
+Houthi 1
+Egypt 2
+Corona 1
+----------- PERSON -------------
+Al-Hajj 1
+Ahlam al-Ashari 1
+----------- ORG -------------
+Al-Houthi 1
+The Information and Rehabilitation Center for Human Rights 1
+the Abductees Mothers Association 1
+League 1
+----------- NORP -------------
+Houthi 6
+entities count =  18
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/iran/2021/01/03/%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AE%D8%B5%D8%B5-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%AB%D8%A3%D8%B1-%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A3%D8%B1%D8%B5%D8%AF%D8%AA%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82 إيران تخصص ميزانية ثأر لسليماني.. من أرصدتها بالعراق
+----------- GPE -------------
+Baghdad 1
+Iran 7
+Iraq 10
+Tehran 1
+Washington 2
+the United States 4
+US 3
+----------- PERSON -------------
+Soleimani 6
+Qassem Soleimani 2
+Abu Mahdi al-Muhandis 1
+Abu Mahdi Al-Muhandis 1
+Amir Ali Hajzadeh 1
+----------- ORG -------------
+Archives - France Press 2
+the Quds Force 6
+the Iranian Revolutionary Guard 2
+the Popular Mobilization Authority 1
+Iranian Revolutionary Guard Corps 1
+the Iranian Student Agency 1
+ISNA 1
+Parliament 2
+the Revolutionary Guards 1
+the Air Force 1
+Tasnim news agency 1
+Revolutionary Guard 1
+----------- NORP -------------
+Iranian 7
+American 3
+Arab 1
+entities count =  70
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/medicine-and-health/2021/01/03/%D9%84%D9%84%D8%AF%D9%85%D9%88%D8%B9-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%85%D8%B0%D9%87%D9%84%D8%A9-%D9%88%D8%B3%D8%B1-%D8%A7%D9%84%D8%B6%D8%AD%D9%83-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D8%A1 للدموع فوائد مذهلة.. وسر الضحك بعد البكاء
+----------- GPE -------------
+Egypt 2
+Corona 1
+----------- PERSON -------------
+----------- ORG -------------
+Rambler 1
+----------- NORP -------------
+entities count =  4
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/iran/2021/01/03/%D9%85%D8%B9%D8%AA%D9%82%D9%84-%D8%B3%D8%A7%D8%A8%D9%82-%D9%8A%D9%83%D8%B4%D9%81-%D9%87%D9%83%D8%B0%D8%A7-%D8%AA%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%87%D8%A7%D8%A6%D9%86-%D9%84%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6- معتقل سابق يكشف.. "هكذا تستعمل طهران الرهائن للتفاوض"
+----------- GPE -------------
+Tehran 3
+Washington 5
+Iran 5
+US 1
+----------- PERSON -------------
+Shi Yu Wang 2
+Nazinin Zaghari-Ratcliffe 1
+Biden 1
+Joe Biden 1
+Wang 1
+Massoud Soleimani 1
+----------- ORG -------------
+Archives - Reuters 1
+CBS 2
+----------- NORP -------------
+Western 1
+British 1
+American 5
+Chinese 1
+Iranian 4
+Democratic 1
+Americans 1
+entities count =  38
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/coronavirus/2021/01/03/%D8%AE%D8%A8%D8%B1-%D8%B3%D8%A7%D8%B1-%D8%B4%D9%81%D8%A7%D8%A1-%D8%A3%D9%88%D9%84-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%88%D8%B1 خبر سار.. شفاء أول حالة إصابة بالفيروس المتحور
+----------- GPE -------------
+US 1
+Florida 4
+Britain 2
+America 2
+Martin County 2
+Treasure Coast 1
+Corona 1
+China 1
+The United States 1
+----------- PERSON -------------
+Carol Ann Vettany 1
+----------- ORG -------------
+Oxford 1
+Corona
+Health 1
+Fox News 1
+CDC 1
+"Daily Mail" 1
+Texas - France Press
+America's 1
+Reuters 1
+----------- NORP -------------
+British 2
+entities count =  25
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/yemen/2021/01/03/%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D8%A3%D9%88%D9%84-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AA%D8%AD%D8%B7-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D8%AF%D9%86 قادمة من الخرطوم.. أول طائرة تحط في مطار عدن
+----------- GPE -------------
+Khartoum 2
+Aden 5
+the Kingdom of Saudi Arabia 1
+Riyadh 1
+----------- PERSON -------------
+Ahmed Lamlas 1
+Maeen Abdul-Malik 1
+----------- ORG -------------
+the Saudi Program for the Development and Reconstruction of Yemen 1
+the Ministers of Interior 1
+Planning and International Cooperation 1
+Yemeni Airlines 1
+Houthi 1
+----------- NORP -------------
+Arab 1
+Yemeni 1
+Iranian 1
+entities count =  19
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/saudi-today/2021/01/03/%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%B1%D9%82%D9%85-%D9%85%D8%B5%D8%A7%D8%A8%D9%8A-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%B5%D9%84-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%AD%D8%AF لأول مرة.. رقم مصابي كورونا في السعودية يصل هذا الحد
+----------- GPE -------------
+Corona 2
+Saudi Arabia 3
+Kingdom 3
+the Corona Vaccine Saudi Arabia 1
+Jeddah
+Ban 1
+the United Kingdom 1
+South Africa 1
+----------- PERSON -------------
+----------- ORG -------------
+the Ministry of Health 1
+Twitter 1
+Pfizer 1
+Interior Ministry 1
+----------- NORP -------------
+entities count =  16
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/coronavirus/2021/01/03/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%87%D9%83%D8%B0%D8%A7-%D9%8A%D8%B9%D9%85%D9%84-%D9%84%D9%82%D8%A7%D8%AD-%D8%A3%D9%88%D9%83%D8%B3%D9%81%D9%88%D8%B1%D8%AF-%D8%B6%D8%AF-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7 بالصور والتفاصيل.. هكذا يعمل لقاح أوكسفورد ضد كورونا
+----------- GPE -------------
+Oxford 3
+Corona 3
+Britain 3
+UK 1
+----------- PERSON -------------
+Ali Nuri 1
+Ali Nouri 3
+----------- ORG -------------
+AstraZeneca Laboratories 1
+the University of Oxford 1
+the Federation of American Scientists 1
+the University of "Oxford" 1
+AstraZeneca 1
+----------- NORP -------------
+British 1
+entities count =  20
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/gulf/2021/01/03/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D8%A7%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%8041 مجلس التعاون الخليجي: الملف الاقتصادي عنوان القمة الـ41
+----------- GPE -------------
+Al-Ula 1
+the Kingdom of Saudi Arabia 1
+Riyadh 1
+Oxford 1
+Corona 1
+----------- PERSON -------------
+Nayef Falah Mubarak 1
+Al-Hajraf 2
+Custodian of the Two Holy Mosques 2
+Salman bin Abdulaziz Al Saud 1
+Nayef Falah Mubarak Al-Hajraf 1
+Salman bin Abdulaziz 1
+----------- ORG -------------
+the Gulf Cooperation Council 8
+Gulf Cooperation Council 1
+The Cooperation Council 1
+the Supreme Council of the Cooperation Council 1
+Council 3
+GCC 3
+the Cooperation Council 2
+the Gulf Common Market 1
+the Customs Union 1
+the Supreme Council 1
+----------- NORP -------------
+entities count =  35
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/iraq/2021/01/03/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%8A%D8%AA%D8%AD%D8%AF%D9%89-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%86-%D9%86%D8%B3%D9%85%D8%AD-%D9%84%D8%A3%D8%AD%D8%AF-%D8%A8%D9%86%D8%B2%D8%B9-%D8%B3%D9%84%D8%A7%D8%AD%D9%86%D8%A7 حزب الله يتحدى حكومة العراق: لن نسمح لأحد بنزع سلاحنا
+----------- GPE -------------
+Iraq 2
+Baghdad 2
+the Green Zone 1
+US 1
+the United States 1
+Iran 1
+----------- PERSON -------------
+Kataib Hezbollah 1
+Abu Hussein Al-Hamidawi 1
+Qassem Soleimani 1
+Abu Mahdi Al-Muhandis 1
+Mustafa Al-Kazemi 1
+Al-Hamidawi 1
+Soleimani 2
+Al-Muhandis 1
+Phalanges 1
+Abu Ali Al-Askari 2
+Al-Kazemi 1
+----------- ORG -------------
+Archives - Reuters 1
+Hizbullah 1
+Hezbollah 3
+the Ministry of Interior 1
+the Iraqi Hezbollah Brigades 1
+the Popular Mobilization Forces 1
+the Quds Force 1
+the Iranian Revolutionary Guard 1
+the Popular Mobilization Authority 1
+----------- NORP -------------
+Iraqi 5
+American 3
+entities count =  40
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/iran/2021/01/03/%D9%82%D8%A2%D8%A7%D9%86%D9%8A-%D9%84%D9%85-%D9%8A%D9%85%D9%84%D8%A3-%D9%81%D8%B1%D8%A7%D8%BA-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%82%D9%84%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%AD%D9%8A%D9%84%D9%87- قاآني لم يملأ فراغ سليماني.. حزب الله قلق بعد رحيله
+----------- GPE -------------
+Beirut 2
+Damascus 1
+Tehran 1
+Iraq 4
+the United States 1
+Syria 2
+Israel 1
+Iran 3
+North Africa 1
+Lebanon 2
+Soleimani 2
+US 1
+Yemen 1
+----------- PERSON -------------
+Nasrallah 2
+Soleimani 11
+Khamenei
+Qaani 1
+Hassan Nasrallah 5
+Qassem Soleimani 1
+Mustafa Al-Kazemi 1
+Bashar al-Halabi 1
+Khaled Hamadeh 1
+Suleiman 2
+----------- ORG -------------
+Hezbollah 12
+the Quds Force 1
+the Revolutionary Guard 1
+ClipperData-NYC 1
+Al-Arabiya.net 2
+Quds Force 1
+Archive - Reuters 1
+----------- NORP -------------
+Lebanese 4
+American 3
+Iranian 12
+Iraqi 1
+Arab 1
+entities count =  87
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/last-page/2021/01/03/%D9%87%D9%84-%D9%87%D9%8A-%D8%A7%D8%A8%D9%86%D8%A9-%D9%85%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%86%D8%A7%D8%9F-%D9%84%D8%A7%D8%B9%D8%A8%D8%A9-%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86%D8%A9-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84 هل هي ابنة مارادونا؟.. لاعبة أرجنتينية تطالب بالنسب
+----------- GPE -------------
+Argentina 2
+Buenos Aires 1
+----------- PERSON -------------
+Maradona 10
+Eugenia Labrovittola 1
+Diego Maradona 2
+Eugenia Laprovittola 1
+Diego 1
+Eugenia 1
+Santiago Lara 1
+Magali Gil 1
+Diego Armando Maradona 1
+----------- ORG -------------
+"Daily Mail" 1
+Interprunor 1
+Celebrity Net Worth 1
+France Press 1
+Reuters 1
+----------- NORP -------------
+Argentine 3
+entities count =  30
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/iran/2021/01/03/%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%82%D8%B1-%D8%A3%D9%86%D9%81%D9%82%D9%86%D8%A7-17-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D8%B4%D8%B7%D8%AA%D9%86%D8%A7-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9 إيران تقر: أنفقنا 17 مليار دولار على أنشطتنا بالمنطقة
+----------- GPE -------------
+Iran 8
+Syria 3
+Corona 1
+US 2
+Tehran 1
+Haftepe 1
+Iraq 1
+Lebanon 1
+Palestine 1
+----------- PERSON -------------
+Mohammad Reza Naqdi 1
+Qassem Soleimani 1
+----------- ORG -------------
+The Iranian Revolutionary Guard (Archives - France Press 1
+the Iranian Revolutionary Guard 1
+the Revolutionary Guards 1
+the Quds Force 1
+the Revolutionary Guard 1
+Archive - Reuters 1
+Hamas 1
+----------- NORP -------------
+Iranian 1
+Iraqi 1
+Iranians 1
+entities count =  31
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/egypt/2021/01/03/-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9-%D9%85%D8%A7%D8%AA%D9%88%D8%A7-%D9%85%D8%B4%D9%87%D8%AF-%D9%85%D8%A4%D9%84%D9%85-%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A8%D9%85%D8%B5%D8%B1 "كل اللي في العناية مات".. مشهد مؤلم لضحايا كورونا بمصر
+----------- GPE -------------
+Corona 4
+Egypt 3
+Al-Husseiniyah 1
+Sharkia 1
+----------- PERSON -------------
+Al-Sharqiyah 1
+Ahmed Mamdouh 1
+----------- ORG -------------
+----------- NORP -------------
+Egyptian 1
+entities count =  12
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/2021/01/03/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D9%86%D8%AA%D9%82%D8%AF-%D9%85%D8%AD%D8%AC%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D9%88%D9%85%D9%88%D8%AC%D8%A9-%D8%B1%D8%AF%D9%88%D8%AF-%D8%BA%D8%A7%D8%B6%D8%A8%D8%A9 أردوغان يشعل موجة غضب.. بعد تصريحات عن محجبات المعارضة
+----------- GPE -------------
+Istanbul 1
+----------- PERSON -------------
+Recep Tayyip Erdogan 3
+Erdogan 5
+Ali Babacan 2
+Kemal Kilçdarolu 1
+Miral Aksenar 1
+Akşınar 1
+Kemal Kılıçdaro 1
+Kemal Kılıçdarolu 1
+----------- ORG -------------
+Archives - France Press 1
+Justice and Development Party 1
+the Democracy and Progress Party 1
+Khalq TV 1
+Al-Khair Party 1
+Twitter 1
+AFP 1
+----------- NORP -------------
+Turkish 7
+entities count =  30
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/arab-and-world/american-elections-2016/2021/01/03/%D8%A8%D9%86%D8%B3-%D9%8A%D9%81%D8%AC%D8%B1-%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA بنس يفجر مفاجأة.. حول اعتراض الجمهوريين على الانتخابات
+----------- GPE -------------
+US 3
+America 1
+----------- PERSON -------------
+Pence 7
+Mike Pence 2
+Joe Biden 1
+Trump 4
+Donald Trump 1
+Mark Short 1
+Biden 2
+----------- ORG -------------
+Senate 2
+Congress 2
+Electoral College 2
+Hill 1
+the House of Representatives 1
+the Republican Party 1
+House of Representatives 1
+----------- NORP -------------
+Republican 4
+Americans 1
+American 1
+entities count =  38
+=======================================================================
+Entities from post: https://www.alarabiya.net/ar/coronavirus/2021/01/03/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D8%A7-%D9%87%D8%B0%D9%87-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%B8%D8%B1%D8%A9-%D9%81%D9%8A-2021 استعدوا.. هذه أبرز الأحداث المنتظرة في 2021
+----------- GPE -------------
+Corona 1
+Spain 1
+Romania 1
+Russia 1
+China 1
+Japan 2
+South Korea 2
+Canada 1
+Glasgow 1
+Scotland 1
+----------- PERSON -------------
+Toky 1
+Celine Dion 1
+----------- ORG -------------
+CNN 2
+The International Olympic Committee 1
+the European Union 1
+Walmart 1
+Amazo 1
+UPS 1
+The US Federal Aviation Administration 1
+Amazon 1
+Dron
+9 1
+----------- NORP -------------
+American 2
+entities count =  26
+=======================================================================
