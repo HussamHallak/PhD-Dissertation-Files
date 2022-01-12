@@ -25,3 +25,13 @@ def find_jaccard_similarity_of_bags(x: list, y: list) -> float:
     return (intersection_size/union_size)  
 
 if __name__ == "__main__":
+  
+      """Get the Jaccard similarity of two bags.
+    Example:
+        >>> jaccard_similarity_bags([1,1,1,2], [1,1,2,2,3])
+        0.3333333333333333
+        >>> jaccard_similarity_bags([1,1,1,2], [1,2,3,4])
+        0.25
+        >>> jaccard_similarity_bags([1,1,2,2,3], [1,2,3,4])
+        0.3333333333333333
+    """
