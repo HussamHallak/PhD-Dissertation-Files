@@ -1,0 +1,25 @@
+Journal, Impact Factor:
+IEEE Transactions on Knowledge and Data Engineering, 4.561
+ACM Transactions on Asian Language Information Processing, 1.413
+IEEE Access, 3.367
+Computational Linguistics, 1.319
+The International Journal on Information and Communication Technologies, 1.154
+International Conference on Advanced Intelligent Systems and Informatics 1.32
+
+
+
+Conference, Acceptance Rate:
+ACL, 20%
+EMNLP, 25% long, 17% short
+NAACL, 26%
+EACL, 24%
+COLING, 27%
+WMT, 32%
+AACL, 28%
+International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, 23%
+PRICAI, 24%
+International conference on knowledge Management in Organizations, 22%
+
+
+https://aclanthology.org/
+
